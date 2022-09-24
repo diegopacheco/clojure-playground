@@ -8,4 +8,4 @@
     (do
       (println @y)
       (swap! y inc)))
-  (str "done"))
+  (str "done. loop over 8 items"))

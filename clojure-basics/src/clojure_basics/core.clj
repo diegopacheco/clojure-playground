@@ -10,5 +10,5 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (let [result (apply f args)]
+  (let [result (cljif)]
     (println result)))
