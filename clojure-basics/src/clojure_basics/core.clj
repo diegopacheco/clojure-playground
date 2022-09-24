@@ -1,4 +1,5 @@
 (ns clojure-basics.core
+  (:use [clojure-basics.loops])
   (:gen-class))
 
 ;; Basic IF in clojure
@@ -10,4 +11,5 @@
   "I don't do a whole lot ... yet."
   [& args]
   (let [result (cljif)]
-    (println result)))
+    (println result)
+    (println (cljwhile))))
