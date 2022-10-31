@@ -25,3 +25,14 @@
         (map inc [1,2,3,4,5,6])
     )
 )
+
+(def a (atom 10))
+
+(defn dowork [a]
+   (println "atom a == ") 
+   (print @a) 
+   (swap! a inc)
+   (println "atom a == ") 
+   (print @a) 
+   '(@a)
+)
