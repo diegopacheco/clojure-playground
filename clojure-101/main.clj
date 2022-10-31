@@ -36,3 +36,11 @@
    (print @a) 
    '(@a)
 )
+
+(def result 
+    (apply max-key second {
+        "metallica" 10
+        "iron maiden" 9
+        "motorhead" 8
+    })
+)
