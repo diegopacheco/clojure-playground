@@ -1,0 +1,26 @@
+(defn lets-do-it [] (
+  (def xf (comp (filter odd?) (map inc)))
+  (str "Result is " (transduce xf + (range 6)))
+))
+(lets-do-it)
+'(lets-do-it)
+(lets-do-it [])
+(def xf (comp (filter odd?) (map inc)))
+(transduce xf + (range 5))
+(let [result (transduce xf + (range 6))]
+    (str "Result is " result)
+  )
+(defn lets-do-it [] (
+  (def xf (comp (filter odd?) (map inc)))
+  (let [result (transduce xf + (range 6))]
+    (str "Result is " result)
+  )
+))
+(lets-do-it)
+(defn lets-do-it [] 
+  (def xf (comp (filter odd?) (map inc)))
+  (let [result (transduce xf + (range 6))]
+    (str "Result is " result)
+  )
+)
+(lets-do-it)
