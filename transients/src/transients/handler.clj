@@ -15,12 +15,13 @@
       (recur (inc i) (conj! v i))
       (persistent! v))))
 
+(defn bench []
+  (time (def v (vrange 1000000)))    ;; 127.76 ms
+  (time (def v2 (vrange2 1000000)))  ;; 67.14  ms
+)
+
 (defroutes app-routes
-  (GET "/" [] (
-               (time (def v (vrange 1000000)))    ;; 73.7 ms
-               (time (def v2 (vrange2 1000000)))  ;; 19.7 ms
-               "Hello World Clojure"
-               ))
+  (GET "/" [] (bench) "Hello World Clojure" )
   (route/not-found "Not Found"))
 
 (def app
