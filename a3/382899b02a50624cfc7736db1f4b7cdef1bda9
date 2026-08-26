@@ -1,0 +1,27 @@
+ex-info-errors/project.clj
+  s_2ef4be17da7c35::t_8eab7a11cdb9f0 1-9
+ex-info-errors/run.sh
+  s_2ef4be17da7c35::t_8eab7a11cdb9f0 1-2
+ex-info-errors/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_3e0a769d674c43 1
+ex-info-errors/target/classes/META-INF/maven/ex-info-errors/ex-info-errors/pom.properties
+  s_2ef4be17da7c35::t_3e0a769d674c43 1-3
+ex-info-errors/src/core/main.clj
+  s_2ef4be17da7c35::t_c11e6c2f527ec9 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "a3382899b02a50624cfc7736db1f4b7cdef1bda9",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
