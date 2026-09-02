@@ -1,0 +1,28 @@
+macro-basics/src/core/main.clj
+  s_2ef4be17da7c35::t_abe3f6baa90fc4 20,23
+  s_2ef4be17da7c35::t_51b0339cf16625 1-19,21-22
+macro-basics/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_08438b74cc6f1b 1
+macro-basics/target/classes/META-INF/maven/macro-basics/macro-basics/pom.properties
+  s_2ef4be17da7c35::t_08438b74cc6f1b 1-3
+macro-basics/project.clj
+  s_2ef4be17da7c35::t_8eab7a11cdb9f0 1-9
+macro-basics/run.sh
+  s_2ef4be17da7c35::t_8eab7a11cdb9f0 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "c8e7b13dc2dd457deb4713dbf404d521a86522ac",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
