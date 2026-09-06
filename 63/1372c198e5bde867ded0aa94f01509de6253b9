@@ -1,0 +1,27 @@
+set-operations/project.clj
+  s_2ef4be17da7c35::t_0be4cbdc33f14b 1-9
+set-operations/run.sh
+  s_2ef4be17da7c35::t_5c1518fcd82b5b 1-2
+set-operations/target/classes/META-INF/maven/set-operations/set-operations/pom.properties
+  s_2ef4be17da7c35::t_8f264846c75eed 1-3
+set-operations/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_b858747355479f 1
+set-operations/src/core/main.clj
+  s_2ef4be17da7c35::t_3688aa12b06875 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "631372c198e5bde867ded0aa94f01509de6253b9",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
