@@ -1,0 +1,27 @@
+threading-macros/project.clj
+  s_2ef4be17da7c35::t_bf1e0fb54f739f 1-9
+threading-macros/run.sh
+  s_2ef4be17da7c35::t_ef2d47cea25079 1-2
+threading-macros/target/classes/META-INF/maven/threading-macros/threading-macros/pom.properties
+  s_2ef4be17da7c35::t_04e9e8da999b1b 1-3
+threading-macros/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_5db7df7f74cd1c 1
+threading-macros/src/core/main.clj
+  s_2ef4be17da7c35::t_0714b1b7ea281a 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "4de6165255b37b016f645b038c14fb8c9d74e639",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
