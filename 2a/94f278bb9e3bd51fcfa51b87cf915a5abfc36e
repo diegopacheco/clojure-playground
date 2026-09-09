@@ -1,0 +1,27 @@
+trampoline-recursion/project.clj
+  s_2ef4be17da7c35::t_ab8cff286047e3 1-9
+trampoline-recursion/run.sh
+  s_2ef4be17da7c35::t_74839b9fc29e7f 1-2
+trampoline-recursion/target/classes/META-INF/maven/trampoline-recursion/trampoline-recursion/pom.properties
+  s_2ef4be17da7c35::t_fc5e7a0beb2400 1-3
+trampoline-recursion/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_30a619f5ce4021 1
+trampoline-recursion/src/core/main.clj
+  s_2ef4be17da7c35::t_2ac73b39578a4b 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2a94f278bb9e3bd51fcfa51b87cf915a5abfc36e",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
