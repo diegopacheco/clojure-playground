@@ -1,0 +1,27 @@
+walk-transform/project.clj
+  s_2ef4be17da7c35::t_8db8cb65dd4c28 1-9
+walk-transform/run.sh
+  s_2ef4be17da7c35::t_76f51c9bba002f 1-2
+walk-transform/target/classes/META-INF/maven/walk-transform/walk-transform/pom.properties
+  s_2ef4be17da7c35::t_f44d7a9b1fa7c3 1-3
+walk-transform/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_beca0d329d2795 1
+walk-transform/src/core/main.clj
+  s_2ef4be17da7c35::t_16675c8bd6459f 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ee61c2458990c7698e3f64e83765ce37c1c0429",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
