@@ -1,0 +1,27 @@
+word-frequency/project.clj
+  s_2ef4be17da7c35::t_d79c3c294d3aaf 1-9
+word-frequency/run.sh
+  s_2ef4be17da7c35::t_bbfe209309c582 1-2
+word-frequency/target/classes/META-INF/maven/word-frequency/word-frequency/pom.properties
+  s_2ef4be17da7c35::t_59855b40e67761 1-3
+word-frequency/target/stale/leiningen.core.classpath.extract-native-dependencies
+  s_2ef4be17da7c35::t_2172a15470810b 1
+word-frequency/src/core/main.clj
+  s_2ef4be17da7c35::t_16d4fc5d71e355 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e3d4f4252510a6eb9d68551c08ee79d5cd4ed7cc",
+  "prompts": {},
+  "sessions": {
+    "s_2ef4be17da7c35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e6c5ef8-9611-45ae-b8b8-562e8dfb1415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
